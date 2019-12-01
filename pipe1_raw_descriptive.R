@@ -1,3 +1,5 @@
+#!Rscript
+
 #read the library
 library(data.table)
 
