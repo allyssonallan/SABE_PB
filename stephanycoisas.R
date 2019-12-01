@@ -1,3 +1,5 @@
+#!/bin/Rscript
+
 library(data.table)
 setwd("~/Área de Trabalho/BDS/rfmix/")
 filelist <- list.files("~/Área de Trabalho/BDS/rfmix/", pattern = "*.bed")
